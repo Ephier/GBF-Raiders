@@ -1,26 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @Ephier
-Sign out
- The password you provided is weak and can be easily guessed. To increase your security, please change your password as soon as possible.
-
-Read our documentation on safer password practices.
-
- Watch 12
- Star 41  Fork 92 ypinskiy/GBF-Raiders
- Code  Issues 4  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy path GBF-Raiders/raids.json
-49400c1  5 days ago
-@ypinskiy ypinskiy Minor Bugs fixes
-5 contributors @ypinskiy @orbli @Shumatsu @po456asd @taogilaaa
-RawBlameHistory     
-1346 lines (1345 sloc)  37 KB
 [
 {
 	"japanese": "Lv100 プロトバハムート",
